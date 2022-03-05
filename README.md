@@ -10,4 +10,7 @@ Handwriting To Text Conversion & Plagiarsim Checking
     pip install pytessract
     pip install scikit-learn
     pip install pillow 
+    
+ #### Download Tesseract-OCR-
+ https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.1.20220118.exe
       
